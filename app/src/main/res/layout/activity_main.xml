@@ -17,7 +17,6 @@
         app:spb_stateNumberForegroundColor="#eeeeee"
         app:spb_currentStateDescriptionColor="#009688"
         app:spb_stateDescriptionColor="#808080"
-        app:spb_animateToCurrentProgressState="true"
         app:spb_checkStateCompleted="true"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/change"
