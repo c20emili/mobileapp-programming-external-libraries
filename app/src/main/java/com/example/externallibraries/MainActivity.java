@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.cliff.comparingperformancebar.PercentageProgressBar;
 
 public class MainActivity extends AppCompatActivity {
 
